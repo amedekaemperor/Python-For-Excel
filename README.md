@@ -1,2 +1,1 @@
-# Python-For-Excel
-Application of Python programming language in Microsoft Excel. 
+This project is the application of python with Microsoft Excel Application.

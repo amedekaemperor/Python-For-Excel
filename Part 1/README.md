@@ -1,0 +1,1 @@
+This part is concerned with the basics of Python programming language.
